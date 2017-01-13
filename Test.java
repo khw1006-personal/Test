@@ -8,6 +8,11 @@ class Test
   {
   }
 
+  public void MethodB()
+  {
+    
+  }
+
   public new()
   {
   }

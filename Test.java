@@ -1,6 +1,6 @@
 class Test
 {
-  public void MethodA()
+  public void MethodAAAAAA()
   {
     
   }

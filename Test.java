@@ -16,4 +16,8 @@ class Test
   public new()
   {
   }
+
+  public DDDD()
+  {
+  }
 }

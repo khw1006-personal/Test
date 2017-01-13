@@ -16,4 +16,10 @@ class Test
   public new()
   {
   }
+
+
+  public ccccc()
+  {
+    
+  }
 }

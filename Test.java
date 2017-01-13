@@ -17,6 +17,10 @@ class Test
   {
   }
 
+  public DDDD()
+  {
+  }
+
 
   public ccccc()
   {

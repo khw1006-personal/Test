@@ -7,4 +7,8 @@ class Test
 }  public static void main()
   {
   }
+
+  public new()
+  {
+  }
 }

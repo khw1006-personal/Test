@@ -21,4 +21,9 @@ public class App
     {
     	return "result";
     }
+    
+    public String anotherMethod()
+    {
+        return "aResult"; 
+    }
 }

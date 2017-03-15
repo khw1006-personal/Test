@@ -31,4 +31,9 @@ public class App
     {
         return "dResult";
     }
+    
+    public String cMethod()
+    {
+    	return "cResult";
+    }
 }

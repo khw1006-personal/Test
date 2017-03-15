@@ -36,4 +36,9 @@ public class App
     {
     	return "cResult";
     }
+    
+    public Strong fMethod()
+    {
+        return "f";
+    }
 }

@@ -16,4 +16,9 @@ public class App
         
         // add comment
     }
+    
+    public String anotherMethod()
+    {
+        return "aResult"; 
+    }
 }

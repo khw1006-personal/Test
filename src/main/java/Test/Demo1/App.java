@@ -26,4 +26,9 @@ public class App
     {
         return "aResult"; 
     }
+    
+    public String dMethod()
+    {
+        return "dResult";
+    }
 }
